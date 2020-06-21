@@ -1,0 +1,24 @@
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+
+  <servlet>
+    <servlet-name>Main</servlet-name>
+    <servlet-class>Main</servlet-class>
+  </servlet>
+
+  <servlet>
+    <servlet-name>Trig</servlet-name>
+    <servlet-class>Trig</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>Main</servlet-name>
+    <url-pattern>/main</url-pattern>
+  </servlet-mapping>
+
+  <servlet-mapping>
+    <servlet-name>Trig</servlet-name>
+    <url-pattern>/trig</url-pattern>
+  </servlet-mapping>
+
+</web-app>

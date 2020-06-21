@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="tomcat:tomcat_core:3.3.2" type="repository">
+    <properties maven-id="tomcat:tomcat_core:3.3.2" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/tomcat/tomcat_core/3.3.2/tomcat_core-3.3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
